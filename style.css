@@ -6,11 +6,11 @@
     left: 0px;
     margin: 0; 
     padding: 0;
-    background-image: url('https://i.ibb.co/Cz0cdLJ/Screenshot-2024-01-30-at-21-23-11.png');
-    background-size: 100% auto; /* Растянуть по ширине с сохранением пропорций */
+    background-image: url('');
+    background-size: 100% auto; 
     background-repeat: no-repeat;
-    background-position: center top; /* Выровнять по центру сверху */
-    background-attachment: scroll; /* Изменить на scroll для добавления прокрутки */
+    background-position: center top; 
+    background-attachment: scroll; 
 }
 .button{
     position: absolute;
