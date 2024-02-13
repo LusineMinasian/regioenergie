@@ -1,12 +1,12 @@
 .background {
     position: fixed; 
     width: 100%;
-    min-height: 100%; /* Изменено с height на min-height */
+    min-height: 100%; 
     top: 0px;
     left: 0px;
     margin: 0; 
     padding: 0;
-    background-image: url('');
+    background-image: url('https://i.ibb.co/sjCQ1Ch/Screenshot-2024-02-13-at-14-47-28.png');
     background-size: 100% auto; 
     background-repeat: no-repeat;
     background-position: center top; 
